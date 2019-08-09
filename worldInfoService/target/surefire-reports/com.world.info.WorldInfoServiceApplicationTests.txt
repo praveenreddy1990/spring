@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.world.info.WorldInfoServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.562 s - in com.world.info.WorldInfoServiceApplicationTests

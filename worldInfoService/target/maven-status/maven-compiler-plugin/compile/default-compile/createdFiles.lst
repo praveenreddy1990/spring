@@ -1,0 +1,6 @@
+com\world\info\CustomizationPort.class
+com\world\info\controller\CityController.class
+com\world\info\mapper\CityMapper.class
+com\world\info\service\CityService.class
+com\world\info\WorldInfoServiceApplication.class
+com\world\info\model\City.class
