@@ -11,6 +11,7 @@ public class CityInfoServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("this is test file")
 	}
 
 }
