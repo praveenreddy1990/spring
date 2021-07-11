@@ -12,6 +12,8 @@ public class CityInfoServiceApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("this is test file")
+		System.out.println("this is only test file")
+		System.out.println("this is only Junit test file")
 	}
 
 }
